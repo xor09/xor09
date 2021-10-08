@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bishal Suvechha Manindra (@xor09)
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Nodejs and expressjs
-- 💞️ I’m looking for frontend developer Internship
+- 🌱 I’m currently learning MERN stack Development
 - 📫 How to reach me?
    mail me on: suvechhabishal@gmail.com
 
