@@ -1,15 +1,21 @@
 Hi 👋 My name is Bishal Suvechha Manindra
 =========================================
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xor09&label=Profile%20views&color=0e75b6&style=flat" alt="xor09" /> </p>
+
 Web Developer
 -------------
+
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [suvechhabishal@gmail.com](mailto:suvechhabishal@gmail.com)
 * 🧠  I'm learning MERN stack Development
 
+
 <a href="https://www.github.com/xor09" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/xor09?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
@@ -32,7 +38,7 @@ src="https://img.shields.io/github/followers/xor09?logo=github&style=for-the-bad
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/xor09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_._xor_._" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/suvechha-bishal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/xor09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_._xor_._" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/suvechha-bishal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://auth.geeksforgeeks.org/user/xor09/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/xor09/" height="32" width="32" /></a> <a href="https://www.leetcode.com/xor09/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/xor09/" height="32" width="32" /></a> </p>
 
 ### Badges
 
