@@ -1,57 +1,166 @@
-Hi 👋 My name is Bishal Suvechha Manindra
-=========================================
+<!-- ========================= -->
+<!--  Bishal | GitHub Profile  -->
+<!-- ========================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xor09&label=Profile%20views&color=0e75b6&style=flat" alt="xor09" /> </p>
+<div align="center">
 
-Web Developer
--------------
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Bishal+%F0%9F%91%8B;Full-Stack+Engineer;Product+Systems+%7C+Trading-Inspired+UI;I+Build+Things+That+Scale" />
 
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<br/>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [suvechhabishal@gmail.com](mailto:suvechhabishal@gmail.com)
-* 🧠  I'm learning MERN stack Development
+<img src="https://komarev.com/ghpvc/?username=xor09&label=Profile%20Views&color=58a6ff&style=flat" />
 
+</div>
 
-<a href="https://www.github.com/xor09" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/xor09?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
+## 🧠 Who Am I?
 
-### Skills
+> *A developer who starts fixing a small bug… and ends up building an entire system.*
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+I’m **Bishal**, a **full-stack engineer** who loves:
+- breaking complex problems
+- building fast, scalable systems
+- and crafting clean, high-performance UIs inspired by **trading & HFT platforms**.
+
+I don’t chase tutorials — I chase **clarity, performance, and real-world impact**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=footer" />
+
+## ⚙️ What I Build
+
+```text
+▸ Real-time dashboards
+▸ Code execution & sandboxed systems
+▸ Interview & developer tools
+▸ Trading / HFT-style UIs
+▸ Products that don’t fall apart under load
+```
+
+---
+
+## 🔧 Tech Arsenal
+
+### 🧩 Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" />
 </p>
 
+**Also comfortable with:** `C`
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/xor09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_._xor_._" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/suvechha-bishal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://auth.geeksforgeeks.org/user/xor09/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/xor09/" height="32" width="32" /></a> <a href="https://www.leetcode.com/xor09/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/xor09/" height="32" width="32" /></a> </p>
+### 🎨 Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakraui/chakraui-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="32" />
+</p>
 
-### Badges
+**Focus areas:**  
+`Dark UI` · `Glassmorphism` · `Trading-style UX` · `Charts` · `Animations`
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/xor09"><img src="https://github-readme-stats.vercel.app/api?username=xor09&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="xor09's GitHub stats" /></a>
+### 🧪 Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" />
+</p>
 
-<a href="http://www.github.com/xor09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xor09&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Concepts:**  
+`REST APIs` · `Auth` · `Scalable APIs`
 
-<a href="http://www.github.com/xor09"><img src="https://activity-graph.herokuapp.com/graph?username=xor09&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+---
 
-<a href="https://github.com/xor09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xor09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### ⚡ Systems & Tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" />
+</p>
 
-<b>Top Repositories</b>
+**Engineering focus:**  
+`WebSockets` · `Performance` · `Scalability`
 
-<div width="100%" align="center"><a href="https://github.com/xor09/thehouseofmovies" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xor09&repo=thehouseofmovies&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+---
+
+## 🚧 Currently Building
+
+<div style="border:1px solid #30363d; border-radius:8px; padding:14px; background-color:#0d1117;">
+
+🧪 **HireEase – Interview Platform**  
+<sub>Live code editor · code execution · scalable backend · WebSocket-based collaboration</sub>
+
+⚙️ **Remote Code Execution Sandbox**  
+<sub>Multi-language support · isolation · performance-focused execution</sub>
+
+📊 **Trading-style Dashboards**  
+<sub>Real-time updates · system-first UI · low-latency feel</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=footer" />
+
+---
+
+## 🧩 Selected Work (Signal > Noise)
+
+Instead of listing everything, here’s **work that represents how I think and build**.
+
+### 🧠 System-first Projects
+
+- 🧪 **Code Execution Sandbox**  
+  <sub>Multi-language execution · isolation · real-time output</sub>
+
+- 📊 **Trading-style Dashboards**  
+  <sub>Real-time data · performance-oriented UI · low-latency feel</sub>
+
+> These are not tutorial clones. They are **problem-driven systems**.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=footer" />
+
+---
+
+## 📈 GitHub Signals <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22"/>
+
+```text
+✔ Consistent commits
+✔ Real-world projects over toy repos
+✔ Backend + Frontend depth
+✔ Systems mindset (not framework hopping)
+```
+
+🔍 **How to read my GitHub:**
+- 📁 Project structure → clarity > cleverness
+- 🧭 Commits → intent > volume
+- 🧠 Code → readability > over-engineering
+
+---
+
+## 🔗 Connect <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/>
+
+If this style of engineering resonates with you:
+
+- 📫 **Email:** `suvechhabishal@gmail.com`
+- 💼 **LinkedIn:** [suvechha-bishal](https://linkedin.com/in/suvechha-bishal)
+- 💻 **GitHub:** [xor09](https://github.com/xor09)
+
+---
+
+<div align="center">
+
+### ⚡ Personal Rule
+
+> *Build things that still make sense 6 months later.*
+
+</div>
+
