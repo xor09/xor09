@@ -97,9 +97,6 @@ I don’t chase tutorials — I chase **clarity, performance, and real-world imp
 
 <div style="border:1px solid #30363d; border-radius:8px; padding:14px; background-color:#0d1117;">
 
-🧪 **HireEase – Interview Platform**  
-<sub>Live code editor · code execution · scalable backend · WebSocket-based collaboration</sub>
-
 ⚙️ **Remote Code Execution Sandbox**  
 <sub>Multi-language support · isolation · performance-focused execution</sub>
 
